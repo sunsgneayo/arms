@@ -1,6 +1,7 @@
 {
     "name": "usone/arms",
     "description": "no",
+    "license": "MIT",
     "type": "library",
     "require": {
         "openzipkin/zipkin": "^3.0"

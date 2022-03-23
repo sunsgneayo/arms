@@ -1,20 +1,13 @@
 {
     "name": "usone/arms",
-    "description": "arms",
+    "description": "no",
     "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "usone"
-        }
-    ],
     "require": {
-        "php": ">=7.2",
         "openzipkin/zipkin": "^3.0"
     },
     "autoload": {
         "psr-4": {
-            "Usone\\Arms\\": "src"
+            "Usone\\Arms\\": "src/"
         }
     }
 }
